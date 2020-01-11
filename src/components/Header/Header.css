@@ -1,0 +1,19 @@
+.header {
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+#instructions {
+    text-align: center;
+    color: #48585a;
+}
+
+li {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    font-size: 1.5rem;
+}

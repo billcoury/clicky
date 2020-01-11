@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'CooperHewitt-Medium';
+  src: url('./fonts/CooperHewitt-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Bold';
+    src: url('./fonts/CooperHewitt-Bold.woff') format('woff');
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'CooperHewitt-Medium';
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'CooperHewitt-Bold';
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
