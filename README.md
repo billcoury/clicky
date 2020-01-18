@@ -1,18 +1,10 @@
 # React-Clicky-Game
 
-Memory game built with React.
 
-Trilogy Education Services Full-Stack Web Developer Program
-
-University of Miami Cohort - 201710FSF3
-
-Week 19-20 Homework Assignment: React Game Application
-
-Create a memory game with React
 
 ## Live App:
 
-[Check out the live app here](https://m-wolowicz.github.io/React-Clicky-Game/index.html)
+[Check out the live app here]
 
 ### Overview
 
@@ -31,9 +23,5 @@ For this assignment, I created a memory game with React. This assignment require
 5. Once the user's score is reset after an incorrect guess, the game restarts.
 
 
-- - -
 
-#### Copyright
-
-Melissa Wolowicz (C) 2018. All Rights Reserved.
 
