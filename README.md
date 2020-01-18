@@ -4,7 +4,7 @@
 
 ## Live App:
 
-[Check out the live app here]
+https://billcoury.github.io/clicky/index.html
 
 ### Overview
 
